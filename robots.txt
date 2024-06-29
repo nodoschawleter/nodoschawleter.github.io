@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nodoschawleter.github.io/sitemap
+Sitemap: https://nodoschawleter.github.io/app/sitemap
+Sitemap: https://nodoschawleter.github.io/assets/sitemap
+Sitemap: https://nodoschawleter.github.io/css/sitemap
+Sitemap: https://nodoschawleter.github.io/includes/sitemap
+Sitemap: https://nodoschawleter.github.io/item/sitemap
+Sitemap: https://nodoschawleter.github.io/src/sitemap
